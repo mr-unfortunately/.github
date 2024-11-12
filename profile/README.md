@@ -4,7 +4,7 @@ An ever-growing collection of pixel-perfect landing page templates, web app temp
 [Visit Site](https://mrunfortunately.com/?utm_source=github-mr-unfortunately&src_id=gmurm0)
 
 ## Recently Added
-![screenshot-crmtina-hq](https://github.com/user-attachments/assets/a6bd72b0-a8ea-41a3-ae20-d0c0ee39925d)
+![crm-tina](https://www.mrunfortunately.com/_next/image?url=%2Fimages%2Fproduct-full-crm.jpg&w=1920&q=75)
 **Corporate SaaS Landing Page** - Designed specifically for corporate SaaS solutions! With a modern but serious and corporate design, this template is perfect for showcasing your software targeting big companies and making a strong first impression. Built with Next.js and Tailwind CSS.
 
 [Download It](https://mrunfortunately.com/?utm_source=github-mr-unfortunately&src_id=gmurm1)
@@ -35,7 +35,7 @@ Multiple Image, Icon and Illlustration Components
 
 ----
 
-![product-full-infinity](https://github.com/user-attachments/assets/74426dad-4239-40e4-8cf2-7a2626b31791)
+![infinity-pm](https://www.mrunfortunately.com/_next/image?url=%2Fimages%2Fproduct-full-infinity.jpg&w=1920&q=75)
 **Infinity, a PM SaaS Landing Page** - This one goes well with any SaaS products! The modern ones, not the corporate dinos! With a modern and universal design, this template is perfect for any SaaS application looking to make a strong impression. Built with Next.js and Tailwind CSS, it offers a clean interface that’s both user-friendly and visually appealing, ensuring your users can navigate effortlessly..
 
 Includes:
@@ -65,15 +65,15 @@ Multiple Image, Icon and Illlustration Components
 # What's next
 One new project added every week - [Get Lifetime Access](https://mrunfortunately.com/?utm_source=github-mr-unfortunately&src_id=gmurmbndl)
 
-![hero-college-hq](https://github.com/user-attachments/assets/56b0c025-a52b-4dda-b8dd-6aadc03c911f)
+![college](https://www.mrunfortunately.com/_next/image?url=%2Fimages%2Fproduct-full-filmacademy.jpg&w=1920&q=75)
 
-![product-full-aqua](https://github.com/user-attachments/assets/3479815a-f972-400a-9bad-c0ed3bfdaa82)
+![product-full-aqua](https://www.mrunfortunately.com/_next/image?url=%2Fimages%2Fproduct-full-aqua.jpg&w=1920&q=75)
 
-![emagine-hq](https://github.com/user-attachments/assets/ad789256-5fef-417c-808b-4ccba25b4f69)
+![emagine-hq](https://www.mrunfortunately.com/_next/image?url=%2Fimages%2Fproduct-full-emagine.jpg&w=1920&q=75)
 
-![homesplus-hq](https://github.com/user-attachments/assets/281c9571-add7-4ed7-888f-d1b5a67b7e41)
+![homesplus-hq](https://www.mrunfortunately.com/_next/image?url=%2Fimages%2Fproduct-full-homesplus.jpg&w=1920&q=75)
 
-![genz-hq](https://github.com/user-attachments/assets/467a56df-586b-403d-94d6-0f6fc23ae074)
+![genz-hq](https://www.mrunfortunately.com/_next/image?url=%2Fimages%2Fproduct-hero-genz.jpg&w=1920&q=75)
 
 # Thank you for the support
 Reach me out for any questions - Visit [mrunfortunately.com](https://mrunfortunately.com/?utm_source=github-mr-unfortunately&src_id=gmurm2)
